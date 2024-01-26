@@ -1,4 +1,4 @@
-# Datascience
+# Steps to run this project
 Section 1: Imports and Setup
 In this section, we start by importing necessary Python libraries and setting up the environment for our project. Here's what's happening:
 
